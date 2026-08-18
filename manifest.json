@@ -1,13 +1,13 @@
 {
   "version": "2026.08.18",
-  "generated_at": "2026-08-18T04:46:33+00:00",
+  "generated_at": "2026-08-18T19:30:17+00:00",
   "cards": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/cards.json",
-    "count": 12185,
-    "serving": 12184,
+    "count": 12183,
+    "serving": 12182,
     "crisis_rows": 1,
-    "bytes": 22040473,
-    "sha256": "0f03e9c9798e55d8cfeeca96b41800bc412b6376eab552436d970adf0b498bf0"
+    "bytes": 22014193,
+    "sha256": "8538885a9cc33157ba36b2214230ee717ae496d75332ef64f03814f9873419c6"
   },
   "keyword_dict": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/keyword_dict.json",
@@ -21,14 +21,14 @@
     "Source",
     "Quote_ZH",
     "Quote_EN",
-    "Quote_Gloss",
-    "Sacred_Content_Level",
+    "Quote_Provenance",
     "Quote_Status",
+    "Sacred_Content_Level",
+    "Quote_Gloss",
     "Core_Claim",
     "Topic_Group",
     "Topic",
     "Topic_Tags",
-    "Is_Transition",
     "Dimension",
     "Emotion",
     "Emotional_Tag",
@@ -43,11 +43,11 @@
     "Perspective_Stretch",
     "Marketing_Gold",
     "Faith_Compat",
+    "Is_Transition",
     "Safety_Route",
     "Topic_Group_Tags",
     "Dimension_Tags",
     "Emotion_Tags",
-    "Quote_Provenance",
     "Retired"
   ],
   "note": "Fetch this manifest first and compare sha256 with what you stored; download cards.json only when it changed."
