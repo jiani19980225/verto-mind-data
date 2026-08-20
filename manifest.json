@@ -1,13 +1,13 @@
 {
   "version": "2026.08.20",
-  "generated_at": "2026-08-20T06:57:02+00:00",
+  "generated_at": "2026-08-20T09:14:47+00:00",
   "cards": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/cards.json",
     "count": 13075,
     "serving": 13074,
     "crisis_rows": 1,
-    "bytes": 23636231,
-    "sha256": "e01a7079e46eeaf266fe2a50085ebb4754d067e832130af3f38a10c48115b245"
+    "bytes": 30469853,
+    "sha256": "77ae3e76c7b22685681f326bb9154ba5074b8b43c878fe419384d1b6d2bd0d37"
   },
   "keyword_dict": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/keyword_dict.json",
@@ -20,11 +20,13 @@
     "Source_Subtradition",
     "Source",
     "Quote_ZH",
+    "Quote_ZH_Provenance",
     "Quote_EN",
     "Quote_Provenance",
     "Quote_Status",
     "Sacred_Content_Level",
     "Quote_Gloss",
+    "Quote_Gloss_ZH",
     "Core_Claim",
     "Topic_Group",
     "Topic_Group_Tags",
@@ -39,6 +41,7 @@
     "Core_Move",
     "Claim_Type",
     "Back_EN",
+    "Back_ZH",
     "Card_Effect",
     "Insight_Lens",
     "Response_Style",
