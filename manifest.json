@@ -1,13 +1,13 @@
 {
   "version": "2026.08.20",
-  "generated_at": "2026-08-20T16:39:54+00:00",
+  "generated_at": "2026-08-20T17:57:07+00:00",
   "cards": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/cards.json",
     "count": 13075,
     "serving": 13074,
     "crisis_rows": 1,
-    "bytes": 30454708,
-    "sha256": "d4375f32469b684c104ef1bcd1a3774872598f5873ce22a0365ddc0e73efd745"
+    "bytes": 30446581,
+    "sha256": "353e823c8553d24be08ae647897893c71c1329d2bfba4295136a69ee3d473f5b"
   },
   "keyword_dict": {
     "url": "https://raw.githubusercontent.com/jiani19980225/verto-mind-data/main/keyword_dict.json",
